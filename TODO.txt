@@ -1,0 +1,11 @@
+
+
+ = = DO ZROBIENIA W PANELU ADMINA = =
+ - po za³ozeniu sklepu daæ przykladowe dane kategoriiee, oferty, servery
+ - ustawienia metod p³atnosci
+ - daæ punkty do zakupienia licencji TYLKO SMS
+ - zrobiæ demo
+ - obrazki slider zrobiæ upload i kasowanie starych
+ 
+ = = DO ZROBIENIA W SKLEPIE = =
+ - system do³adowywania coinsów
